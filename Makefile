@@ -5,6 +5,8 @@ source:
 	cp ~/.dotfiles/.zshrc ~/.zshrc
 	cp ~/.dotfiles/.bashrc ~/.bashrc
 	cp ~/.dotfiles/.bash_profile ~/.bash_profile
+	cp ~/.dotfiles/.loadenv.sh ~/.loadenv.sh
+
 
 pull:
 	git pull origin main

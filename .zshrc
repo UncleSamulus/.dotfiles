@@ -4,6 +4,8 @@ autoload antigen
 
 source ~/.dotfiles/antigen/antigen.zsh
 
+source ~/.loadenv.sh
+
 # Aliases
 source ~/.aliases
 
