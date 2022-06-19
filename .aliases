@@ -1,0 +1,39 @@
+# .aliases
+
+# Unileter aliases
+alias m="make"
+alias o="atril"
+alias g="git"
+alias p="python3"
+alias r="cargo run"
+alias v="vim"
+
+# Navigation aliases
+alias doc="cd ~/Documents/"
+alias cours="cd ~/Documents/cours/"
+alias pro="cd ~/Documents/Project"
+
+# Utility aliases
+alias cr="clear"
+alias ll="ls -lh"
+alias grep="grep --color"
+alias md="mkdir"
+alias sm="snakemake"
+
+# Git aliases
+alias ga="git add"
+alias gi="git init"
+alias gc="git commit"
+alias gst="git status"
+alias gm="git mv"
+alias grm="git rm"
+alias gp="git push"
+alias gu="git pull"
+
+# Template aliases
+alias np="cp ~/Templates/scripts/python.py"
+
+# Rust aliases
+alias cn="cargo new"
+alias cb="cargo build"
+alias cu="cargo update"
