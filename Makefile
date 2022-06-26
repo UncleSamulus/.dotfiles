@@ -3,6 +3,7 @@ all: pull source
 source:
 	cp ~/.dotfiles/.aliases ~/.aliases
 	cp ~/.dotfiles/.zshrc ~/.zshrc
+	cp ~/.dotfiles/.profile ~/.profile
 	cp ~/.dotfiles/.bashrc ~/.bashrc
 	cp ~/.dotfiles/.bash_profile ~/.bash_profile
 	cp ~/.dotfiles/.loadenv.sh ~/.loadenv.sh
