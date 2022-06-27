@@ -7,7 +7,7 @@ source:
 	cp ~/.dotfiles/.bashrc ~/.bashrc
 	cp ~/.dotfiles/.bash_profile ~/.bash_profile
 	cp ~/.dotfiles/.loadenv.sh ~/.loadenv.sh
-
+	cp ~/.dotfiles/.vimrc ~/.vimrc
 
 pull:
 	git pull origin main
